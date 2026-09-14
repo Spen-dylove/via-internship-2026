@@ -1,7 +1,7 @@
 # VIA Internship 2026 Submission
 
-**Name:** <Spendylove_Amankwaah>
-**Index Number:** <7351923>
+**Name:** <Joel_Nartey_Annan>
+**Index Number:** <7352323>
 **School:** Kwame Nkrumah University of Science and Technology (KNUST)
 
 ## What's in this repo

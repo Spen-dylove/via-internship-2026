@@ -21,8 +21,7 @@ fi
 DATAFILE="data.txt"
 BACKUP="data.txt.bak"
 
-# Make sure the data file exists
-touch "$DATAFILE"
+# Make sure the data file existstouch "$DATAFILE"
 
 # --- Backup before destructive changes ---
 backup_data() {
